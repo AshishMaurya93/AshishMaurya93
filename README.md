@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-ten-psi-42.vercel.app/](https://my-portfolio-ten-psi-42.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-khaki-sigma.vercel.app/](https://portfolio-v2-khaki-sigma.vercel.app/)
 
 - 💬 Ask me about **React, Next.js, Node.js**
 
